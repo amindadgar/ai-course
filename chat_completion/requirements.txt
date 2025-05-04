@@ -1,0 +1,6 @@
+llama-index==0.12.33
+ipykernel
+python-dotenv
+openai
+langchain[openai]
+together==1.5.5
