@@ -1,4 +1,4 @@
-# ISF-AI: Intelligent Systems Framework
+# LLM Course
 
 This repository contains AI components for natural language processing, focusing on two main areas:
 
